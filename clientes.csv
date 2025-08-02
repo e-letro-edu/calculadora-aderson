@@ -1,0 +1,10 @@
+id,nome,sobrenome,email,telefone,data_nascimento,cpf_ficticio,cidade,estado,pais,genero,criado_em,altura
+482cf2fc-10fd-45f7-8f9e-ec2f67f6d59d,William,Pereira,william.pereira@exemplo.com,+5514955065012,1979-03-24,181.960.013-38,Brasília,DF,Brasil,Feminino,2025-07-19T17:12:45,150
+2ca42d86-f02e-4546-b8ae-d06d8e3cc67d,Xavier,Martins,xavier.martins@exemplo.com,+5580978734611,1993-10-09,026.542.351-16,Rio de Janeiro,RJ,Brasil,Masculino,2025-07-19T11:38:16,120
+29862d5f-c51c-4154-9fcf-dde506d23137,Carla,Monteiro,carla.monteiro@exemplo.com,+5569997853045,1989-02-18,495.931.034-13,Natal,RN,Brasil,Feminino,2025-07-19T12:17:29,180
+debe5b0b-06f7-4da4-8a0a-627461adf5ea,William,Siqueira,william.siqueira@exemplo.com,+5557936647065,1987-04-22,419.283.276-48,Curitiba,PR,Brasil,Outro,2025-07-19T10:53:49,200
+7e2d1e76-efea-4430-9740-ce4a951249e0,Diego,Ribeiro,diego.ribeiro@ exemplo.com,+5515961687572,1982-02-07,953.767.242-38,Manaus,AM,Brasil,Masculino,2025-07-19T23:37:27,21o
+6309994d-74ed-46f5-9e0f-33adf7d3a0ad,Tatiane,Barros,tatiane.barros@exemplo.com,+5557945933266,1997-08-03,012.269.166-97,Manaus,AM,Brasil,Masculino,2025-07-19T17:55:00,145
+8c662c0b-7ad3-4af6-998e -cb8b1c90fee1,Zilda,Monteiro,zilda.monteiro@exemp,+5525997975371,1986-02-10,627.048.281-48,Brasília,DF,Brasil,Feminino,2025-07-19T04:23:48,167
+d0b4d572-f748-423b-b098-77ad97497949,Karina,Melo,karina.melo@exemplo.com,+5578910096310,1996-01-04,543.039.117-18,Florianópolis,SC,Brasil,Feminino,2025-07-19T04:42:30,177
+53f9a235-ef5c-45f1-99b6-347201d96dbf,Renato,Carvalho,renato.carvalho@exemplo.com,+5544996457932,1978-09-25,346.578.713-31,Recife,PE,Brasil,Feminino,2025-07-19T18:35:14,18E
